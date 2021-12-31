@@ -2,9 +2,10 @@
 
 Segue abaixos os desafios do MostQi para os candidados à vaga de Analista SRE/DevOps
 
-1. [Terraform/IaC](./terraform/README.md)
+1. [Terraform](./terraform/README.md)
 2. [Kubernetes](kubernetes/README.md)
-3. [Terraform+Kubernetes](terraform+k8s/README.md)
+3. [Terraform+Kubernetes](terraform-k8s/README.md)
+4. [Terraform+EKS](terraform-eks/README.md)
 
 ## Instruções
 
