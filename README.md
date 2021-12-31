@@ -1,6 +1,6 @@
-# Desafios MostQi
+# Desafio mostQi
 
-Segue abaixos os desafios do MostQi para os candidados à vaga de Analista SRE/DevOps
+Segue abaixos os itens do Desafio mostQi para os candidados à vaga de Analista SRE/DevOps
 
 1. [Terraform](./terraform/README.md)
 2. [Kubernetes](kubernetes/README.md)
