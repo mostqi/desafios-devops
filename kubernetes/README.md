@@ -10,18 +10,16 @@ Dentro deste repositório existe um subdiretório **app** e um **Dockerfile** qu
 - A aplicação deve ter seu _deploy_ realizado com uma única linha de comando em um cluster kubernetes **local**
 - Todos os _pods_ devem estar rodando
 - A aplicação deve responder à uma URL específica configurada no _ingress_
+- Divisão de recursos por _namespaces_
+- Utilização de _health check_ na aplicação
 
 ## Extras
 
 - Utilizar Helm [HELM](https://helm.sh)
-- Divisão de recursos por _namespaces_
-- Utilização de _health check_ na aplicação
 - Fazer com que a aplicação exiba seu nome ao invés de **"Olá, candidato!"**
 
 ## Notas
 
-- Consulte a equipe sobre como será feita a apresentação:
-  1. Será disponibilizado o acesso à uma conta na AWS para que os recursos sejam criados para a apresentação.
-  2. Utilizar o [Minikube](https://github.com/kubernetes/minikube) ou [Docker for Mac/Windows](https://docs.docker.com/docker-for-mac/) para execução do desafio e realização de testes. ()
+- Utilizar o [Minikube](https://github.com/kubernetes/minikube) ou [Docker for Mac/Windows](https://docs.docker.com/docker-for-mac/) para execução do desafio e realização de testes.
 - A aplicação sobe por _default_ utilizando a porta **3000** e utiliza uma variável de ambiente **$NAME**
 - Não é necessário realizar o _upload_ da imagem Docker para um registro público, você pode construir a imagem localmente e utilizá-la diretamente.
