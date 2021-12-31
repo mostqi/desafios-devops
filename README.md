@@ -12,10 +12,10 @@ Você deve realizar o fork este projeto e fazer o push no seu próprio repositó
 
 A implementação deve ficar na pasta correspondente ao desafio. Fique à vontade para adicionar qualquer tipo de conteúdo que julgue útil ao projeto, alterar/acrescentar um README com instruções de como executá-lo, etc.
 
-## Como os desafios deverão entregues
+## Como os desafios deverão ser entregues
 
 Os desafios serão apresentados em data e hora combinados previamente por email.
 
-## MostQi
+## mostQi
 
 Acesse nosso [linkedin](https://www.linkedin.com/company/mobile-solution-technology/posts/?feedView=all) para mais informações sobre vagas e novidades.
