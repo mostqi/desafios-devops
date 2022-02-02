@@ -1,6 +1,6 @@
 # Desafio Infra
 
-Seguem abaixo os itens do desafio mostQi para os candidatos à vaga de Analista de Infraestrutura:
+Seguem abaixo os itens do desafio para os candidatos à vaga de Analista de Infraestrutura:
 
 1. [Terraform](./terraform/README.md)
 2. [Kubernetes](kubernetes/README.md)
