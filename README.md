@@ -1,6 +1,6 @@
 # Desafio Infra
 
-Seguem abaixo os itens do desafio para os candidatos à vaga de Analista de Infraestrutura:
+Seguem abaixo os itens do desafio para os candidatos à vaga de Analista de Infraestrutura AWS:
 
 1. [Terraform](./terraform/README.md)
 2. [Kubernetes](kubernetes/README.md)
